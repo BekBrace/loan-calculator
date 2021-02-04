@@ -1,4 +1,4 @@
-Few points to clear the darkness..
+Few points for better understanding ...
 
 tkinter module contains the tk toolkit. Here in this example, we are importing the whole module of tkinter in the firstline. 
 Next, We are creating a user-defined Class named LoanCalculator which holds it’s own data member and member functions.
